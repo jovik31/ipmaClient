@@ -1,0 +1,1 @@
+Init ipma Client to get weather info from IPMA API
